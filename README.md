@@ -125,6 +125,20 @@ Robotic-Arm/
 └── LICENSE
 ```
 
+## Project Gallery
+
+### Front View
+![Robotic Arm Front View](images/front_view.jpeg)
+
+### Side View
+![Robotic Arm Side View](images/side_view.jpeg)
+
+## Demo Video
+
+[Watch the Robotic Arm Demo](video/Demo_video.mp4)
+
+
+
 
 ## 👥 Contributors
 
