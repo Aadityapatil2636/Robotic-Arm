@@ -108,9 +108,11 @@ The demonstration video will be added here.
 ## 📂 Repository Structure
 
 
+## 📂 Repository Structure
+
+```text
 Robotic-Arm/
 │
-├── robotic_arm.ino
 ├── images/
 │   ├── robotic-arm-front.jpg
 │   └── robotic-arm-side.jpg
@@ -118,8 +120,10 @@ Robotic-Arm/
 ├── video/
 │   └── robotic-arm-demo.mp4
 │
+├── robotic_arm.ino
 ├── README.md
 └── LICENSE
+```
 
 
 ## 👥 Contributors
